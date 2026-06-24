@@ -1,0 +1,5 @@
+requests>=2.31.0
+beautifulsoup4>=4.12.2
+playwright>=1.40.0
+ddddocr>=1.5.0
+urllib3>=2.1.0

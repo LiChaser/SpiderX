@@ -6,8 +6,9 @@
 
 ## 修改日志
 ### 2026年6月24日  接入mcp格式,回到纯脚本使用
-以opencode为例在 opencode.json 注册
-C:\Users\14844\.opencode\opencode.json:
+```
+#以opencode为例在 opencode.json 注册
+#C:\Users\14844\.opencode\opencode.json:
 {
   "mcp": {
     "lichauto": {
@@ -17,6 +18,7 @@ C:\Users\14844\.opencode\opencode.json:
     }
   }
 正常使用lichauto传参url即可
+```
 
 ### 2026年3月
 

@@ -5,8 +5,20 @@
 ![Stars](https://img.shields.io/badge/dynamic/json?color=blue&label=Stars&query=stargazers_count&url=https%3A%2F%2Fapi.github.com%2Frepos%2FLiChaser%2FSpiderX)
 
 ## 修改日志
+### 2026年6月24日  接入mcp格式,回到纯脚本使用
+以opencode为例在 opencode.json 注册
+C:\Users\14844\.opencode\opencode.json:
+{
+  "mcp": {
+    "lichauto": {
+      "type": "local",
+      "command": ["python", "D:/.../mcp_server.py"],
+      "enabled": true
+    }
+  }
+正常使用lichauto传参url即可
 
-### 2026年
+### 2026年3月
 
 把笨重的gui换成了可云上线的web端，部署使用都方便起来了，具体跳转到下链接
 
